@@ -1,0 +1,7 @@
+# Hacktoberfest 2017 
+# Why I Love Open Source
+
+# Open source is a wonderful platform for members of the global community of programmers/developers/enthusiasts alike can
+# contribute to any project they choose. Rather than developing a small team to tackle such project, this allows for the 
+# global community to be team, which can lead to a far better outcome and more efficient process of the project. Thank you 
+# for the opportunity to gain a PR!
