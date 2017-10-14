@@ -1,0 +1,4 @@
+/*
+I love open source because we can help patch up vulnerabilities or make changes
+to other people's code/help them and work gets done faster that way!
+*/
