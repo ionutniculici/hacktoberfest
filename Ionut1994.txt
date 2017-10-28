@@ -1,1 +1,1 @@
-I love open source because it allows people to work together on projects, each one contributing with their own ideas.
+I love open source because it allows people to work together on projects, each one contributing with their own ideas. And for the hacktoberfest
