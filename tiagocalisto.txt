@@ -1,0 +1,12 @@
+<p> Pegar o Ultimo valor de uma tabela e mostrando num TextField </p>
+
+int delay = 5000;   // delay de 5 seg.
+    int interval = 5000;  // intervalo de 1 seg.
+    Timer timer = new Timer();
+
+    timer.scheduleAtFixedRate(new TimerTask() {
+        public void run() {
+          jTextField6.setText("1");
+        }
+    }, delay, interval);
+}
