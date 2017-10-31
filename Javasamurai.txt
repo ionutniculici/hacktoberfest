@@ -1,0 +1,4 @@
+# Why I love open source
+I love open source as it gives you independence on reviewing,creating,modifying,redistributing code with each as compared to close source where you can only see the end product nothing else.This freedom of reviewing code encourages programmer to contribute and make the software better.
+I love github because we can create checkpoint when ever we create a commit.We can switch into feature branch without even messing with the main branch.
+
