@@ -1,0 +1,2 @@
+ 
+I love open source because it allows people to both learn from how software should be made and it allows many people to validate the design and security of a given program.
