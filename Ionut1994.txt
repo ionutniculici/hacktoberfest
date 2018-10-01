@@ -1,1 +1,3 @@
 I love open source because it allows people to work together on projects, each one contributing with their own ideas.
+It also allows groups of people to refine there skills by working on other people code. 
+It allows for maximum effiecency by using poeple of all different levels to work on the same projects.
