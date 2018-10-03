@@ -1,0 +1,3 @@
+Open source is great for sharing knowledge and resources across borders. 
+
+Also, once you've learned git and GitHub it's not as scary :) 
