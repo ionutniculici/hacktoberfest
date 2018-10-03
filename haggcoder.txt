@@ -1,0 +1,3 @@
+I love open source because it provides a mechanism to utilise the brains of talented developers around the world by allowing 
+us to use functionality available through their plugins and other features, without the need to spend a lot of time developing 
+or writing the core code.
