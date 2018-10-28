@@ -1,0 +1,11 @@
+Open source is magical concept. It allows anyone and
+everyone to transparently see what goes into a project.
+If I'm interested in GPU programming, I can browse
+hundreds of open sourced projects that have already
+implemented such a thing and I can learn from their
+experience. To go even further, I could contribute to
+the project, I could download the project on as
+many machines as I want, and I can share the project
+with anyone I please. Open source is truely a magical
+thing and if anything or anyone were to try and stop it,
+they'd be doing all developers a disservice.
